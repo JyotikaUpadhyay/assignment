@@ -1,0 +1,30 @@
+body{
+    text-align: center;
+    background-color: rgb(251, 242, 242);
+}
+
+nav{
+    display: flex;
+    justify-content: space-between;
+    background-color: orange;
+    color: white;
+}
+
+nav > div{
+    display: flex;
+    gap: 10px;
+}
+#list-container{
+    text-align: left;
+    background-color: rgb(247, 235, 213);
+}
+
+#list-carrier{
+    background-color: rgb(242, 209, 196);
+    text-align: left;
+}
+
+footer{
+    background-color: rgb(244, 214, 158);
+    padding: 0.5sem;
+}
